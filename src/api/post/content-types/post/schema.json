@@ -52,6 +52,16 @@
       },
       "type": "richtext",
       "required": true
+    },
+    "postedBy": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "string",
+      "default": "Rodrigo Santos",
+      "required": true
     }
   }
 }
